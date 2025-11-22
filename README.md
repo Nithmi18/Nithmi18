@@ -3,24 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithmi18" alt="nithmi18" /></a> </p>
 
-- 🔭 I’m currently working on [Enhancing an AI-driven Music Recommendation System -an agentic, ML-powered project originally developed for my Y3S1 university module](https://github.com/Thushalini/MusicRecommendationAI)
-
-- 🌱 I’m currently learning **Deepening my understanding of Data Science, Machine Learning, and modern AI frameworks as part of my Bachelor’s Degree in Information Technology (Data Science specialization)**
-
-- 👯 I’m looking to collaborate on **AI, Machine Learning, or Data-Science-focused project, especially those involving intelligent agents, recommendation systems, or creative AI applications**
-
-- 👨‍💻 All of my projects are available at [still working on my portfolio website — coming soon!](still working on my portfolio website — coming soon!)
-
-- 📝 I regularly write articles on [Not writing regularly yet—planning to start soon!](Not writing regularly yet—planning to start soon!)
-
-- 💬 Ask me about **AI, Machine Learning concepts, Data Science, and my work with recommendation systems**
-
-- 📫 How to reach me **itz.nithmi@gmail.com**
-
-- 📄 Know about my experiences [Resume coming soon!](Resume coming soon!)
-
-- ⚡ Fun fact **I learn faster when I’m obsessed with a project, which happens more often than I admit**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nithmi randunuge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithmi randunuge" height="30" width="40" /></a>
