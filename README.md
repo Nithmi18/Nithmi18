@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nithmi Randunuge</h1>
 <h3 align="center">A passionate data science enthusiast from Sri Lanka</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithmi18&label=Profile%20views&color=0e75b6&style=flat" alt="nithmi18" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithmi18" alt="nithmi18" /></a> </p>
+
+- 🔭 I’m currently working on **Enhancing an AI-driven Music Recommendation System -an agentic, ML-powered project originally developed for my Y3S1 university module**
+
+- 🌱 I’m currently learning **Deepening my understanding of Data Science, Machine Learning, and modern AI frameworks as part of my Bachelor’s Degree in Information Technology (Data Science specialization)**
+
+- 👯 I’m looking to collaborate on **AI, Machine Learning, or Data-Science-focused projects**
+
+- 👨‍💻 All of my projects are available at [Portfolio coming soon!](Portfolio coming soon!)
+
+- 💬 Ask me about **AI, Machine Learning concepts, Data Science, and my work with recommendation systems**
+
+- 📫 How to reach me **itz.nithmi@gmail.com**
+
+- 📄 Know about my experiences [Resume coming soon!](Resume coming soon!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithmi18&show_icons=true&locale=en&layout=compact" alt="nithmi18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithmi18&show_icons=true&locale=en" alt="nithmi18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithmi18&" alt="nithmi18" /></p>
