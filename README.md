@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nithmi Randunuge</h1>
 <h3 align="center">A passionate data science enthusiast from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithmi18&label=Profile%20views&color=0e75b6&style=flat" alt="nithmi18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nithmi18&label=Profile%20views&color=0e75b6&style=flat" alt="Nithmi18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithmi18" alt="nithmi18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nithmi18" alt="Nithmi18" /></a> </p>
 
 - 🔭 I’m currently working on **Enhancing an AI-driven Music Recommendation System -an agentic, ML-powered project originally developed for my Y3S1 university module**
 
