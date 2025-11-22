@@ -12,13 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nithmi18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nithmi18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithmi18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br/>
-![GitHub Repo stars](https://img.shields.io/github/stars/Nithmi18/repo-name)
-![GitHub forks](https://img.shields.io/github/forks/Nithmi18/repo-name)
-![GitHub license](https://img.shields.io/github/license/Nithmi18/repo-name)
-![Workflow](https://github.com/Nithmi18/repo-name/actions/workflows/workflow.yml/badge.svg)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 ## 🏆 GitHub Trophies
@@ -30,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nithmi18&icon=9&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- created with GPRM ( https://gprm.itsvg.in ) -->
